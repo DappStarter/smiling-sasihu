@@ -1,0 +1,16 @@
+{
+    "name": "MyArtStore",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "MyArt",
+        "/category/asset_value_tracking/token/symbol": "MRT",
+        "/category/asset_value_tracking/token/decimals": "0",
+        "/category/asset_value_tracking/token/supply": "1000000",
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "multiple",
+        "/category/collection/entity": true
+    }
+}
